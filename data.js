@@ -65,8 +65,10 @@ const EXPERIENCE = [
     org: "University of North Carolina Wilmington",
     when: "Aug 2026 to present",
     points: [
-      "Building a scavenger hunt and quiz feature for Coastal Eco Explorer, a Flutter app that helps visitors explore North Carolina coastal parks.",
-      "Working from requirements with a faculty lead, using Git branching and code review in Agile iterations.",
+      "Co-developing Coastal Eco Explorer, a production Flutter and Firebase app that helps visitors explore North Carolina coastal parks through maps, trail information, and wildlife identification, working directly with faculty lead Dr. Lucas Layman.",
+      "Working through the project's issue backlog, taking issues from requirements to shipped code in an existing codebase.",
+      "Designing and building an educational scavenger hunt and quiz feature for elementary school field trips, with question screens, answer tracking, scoring, and results tied into the app's existing park and wildlife data in Firebase.",
+      "Using Git branching, code review, and Agile iterations to plan, test, and ship changes as requirements evolve.",
     ],
   },
   {
