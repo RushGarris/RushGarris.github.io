@@ -43,10 +43,10 @@ const PROJECTS = [
     kind: "Mobile app",
     status: "",
     description:
-      "An interactive progression guide for Terraria, with a path for each class in the game. Firebase handles sign-in and stores your progress.",
+      "An interactive progression guide for Terraria, with a path for each class in the game. Firebase handles sign-in and stores your progress, or you can try it as a guest with no account.",
     tags: ["Flutter", "Dart", "Firebase"],
     repo: "https://github.com/RushGarris/terraria_progression",
-    demo: "",
+    demo: "https://rushgarris.github.io/terraria_progression/",
   },
   {
     title: "Grandline Tic Tac Toe",
