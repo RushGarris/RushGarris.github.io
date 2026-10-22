@@ -74,7 +74,8 @@ const EXPERIENCE = [
     org: "Chick-fil-A, Wilmington",
     when: "Dec 2021 to present",
     points: [
-      "Lead shifts of 8 to 12 people and trained 10+ new hires, which is where I learned to explain things clearly and stay calm under pressure.",
+      "Leading shifts of 8 to 12 team members, delegating tasks and re-prioritizing in real time to keep service running smoothly during high-volume periods.",
+      "Trained and onboarded 10+ new hires, and resolve guest and operational issues on the spot through clear communication and problem-solving.",
     ],
   },
 ];
